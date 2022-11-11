@@ -35,4 +35,31 @@
 
 .sobre__imagem {
     width: 100%;
+    display: none;
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .sobre {
+        display: flex;
+    }
+
+    .sobre__titulo {
+        text-align: left;
+    }
+
+    .sobre__texto--divisao {
+        padding-bottom: 0.5rem;
+    }
+
+    .sobre__plataformas {
+        border-top: solid 1px var(--cinza-medio);
+        padding-top: 1.2rem;
+    }
+
+    .sobre__imagem {
+       margin-left: 3rem;
+       display:inline-block
+    }
 }
