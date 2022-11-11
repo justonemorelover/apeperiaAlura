@@ -2,7 +2,7 @@
 Arquivos do projeto para a Apeperia
 # apeperiaAlura
 
-Projeto destinado a desenvolver habilidades em CSS:
+Conceitos abordados:
 
     Projeto no Figma para referência;
     EMMET na criação de blocos HTML;
@@ -11,16 +11,16 @@ Projeto destinado a desenvolver habilidades em CSS:
 
     Conceito Mobile-First;
     Initial-scale = 1.0;
-    Variáveis na estilização;
-    background position
+    Variáveis na estilização (cores);
+    background position;
 
-    Tags semânticas: adress, article, video
-    Video 'controls'
+    Tags semânticas: adress, article, video, etc;
+    Video 'controls';
 
     Media Querys nos arquivos de cada seção;
-    Media Types
+    Media Types;
     
-    Utilização da função calc()
+    Utilização da função calc();
 
     
 
